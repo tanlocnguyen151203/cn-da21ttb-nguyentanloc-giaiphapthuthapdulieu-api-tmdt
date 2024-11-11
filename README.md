@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <h1 Style="text-align:center ;" href="https://github.com/tanlocnguyen151203/cn-da21ttb-nguyentanloc-giaiphapthuthapdulieu-api-tmdt.git" >Tìm hiểu giải pháp thu thập dữ liệu thông qua API của các nền tảng thương mại điện tử</h1><br>
+    <h1 Style="text-align:center ;" href="https://github.com/tanlocnguyen151203/cn-da21ttb-nguyentanloc-giaiphapthuthapdulieu-api-tmdt.git" >Tìm hiểu giải pháp thu thập dữ liệu thông qua API của các nền tảng thương mại điện tử </h1><br>
     <h2>Giới Thiệu:</h2><br>
 <p><font size="3" > </font> </p>     
 
