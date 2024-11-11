@@ -38,7 +38,7 @@
 
 <h2>Giảng viên hướng dẫn:</h2><br>
 
-<li><b>TS. <font size="3" >Nguyễn Khắc Quốc</font></b></li></br>
+<li><b>ThS. <font size="3" >Nguyễn Khắc Quốc</font></b></li></br>
 
 </body>
 </html>
