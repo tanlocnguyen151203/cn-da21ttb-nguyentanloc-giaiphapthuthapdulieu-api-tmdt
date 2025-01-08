@@ -14,11 +14,11 @@
 <body>
     <h1 Style="text-align:center ;" href="https://github.com/tanlocnguyen151203/cn-da21ttb-nguyentanloc-giaiphapthuthapdulieu-api-tmdt.git" >Tìm hiểu giải pháp thu thập dữ liệu thông qua API của các nền tảng thương mại điện tử </h1><br>
     <h2>Giới Thiệu:</h2><br>
-<p><font size="3" > </font> </p>     
+<p><font size="3" > </font> Dữ liệu là phần quan trọng không thể thiếu của các nền tảng TMĐT. Việc tìm hiểu giải pháp thu thập dữ liệu thông qua API từ các nền tảng TMĐT giúp cho các doanh nghiệp đưa ra những quyết định và chiến lược kinh doanh hiệu quả. </p>     
 
 <h2>Mô Tả:</h2><br>
 
-<p></p>
+<p>Thu thập dữ liệu là quá trình lấy dữ liệu thông qua API từ các nền tảng TMĐT để tổng hợp, phân tích và xử lý các dữ liệu đã thu thập, từ đó hỗ trợ cho các hoạt động kinh doanh như: phân tích thị trường, tối ưu hóa các hoạt động kinh doanh, nghiên cứu và phát triển sản phẩm,…giúp phục vụ cho quá trình kinh doanh hiệu quả.</p>
 
 <p></p>
 
